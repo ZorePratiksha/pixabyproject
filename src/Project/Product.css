@@ -1,0 +1,20 @@
+.MainSec{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.ImgSec img{
+    height: 350px;
+    width: 350px;
+
+}
+
+h1{
+    text-align: center;
+}
